@@ -1,0 +1,16 @@
+.naming-sect{
+    font-family: 'Alfa Slab One', cursive;
+    vertical-align: auto;
+    border: 1px dodgerblue;
+}
+.navbar{
+    font-family: 'Alfa Slab One', cursive;
+}
+body{
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+}
+nav{
+    background-color: red;
+}
