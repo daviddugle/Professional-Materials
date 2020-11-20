@@ -19,6 +19,6 @@ This was fun to try with a new framework. There were things that I liked and dis
 
 **Photos of site**
 
-![main page]()
-![portfolio]()
-![contact info]()
+![main page](https://github.com/daviddugle/Professional-Materials/blob/main/assets/mainpage.jpg?raw=true)
+![portfolio](https://github.com/daviddugle/Professional-Materials/blob/main/assets/Portfolio.jpg?raw=true)
+![contact info](https://github.com/daviddugle/Professional-Materials/blob/main/assets/contactMeModal.jpg?raw=true)
