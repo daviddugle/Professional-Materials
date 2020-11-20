@@ -3,6 +3,8 @@
     vertical-align: auto;
     border: 2px dodgerblue;
     text-shadow: 2px 2px 15px dodgerblue;
+    -webkit-text-stroke-width: .25px;
+    -webkit-text-stroke-color: dodgerblue;
 
     
 }
@@ -29,11 +31,17 @@ nav{
 }
 .first-card,
 .second-card,
-.third-card
+.third-card,
+.link
 {
     color: black;
     font-size: 30px;
     text-shadow: 2px 2px 15px dodgerblue;
-    -webkit-text-stroke-width: .5px;
-    -webkit-text-stroke-color: dodgerblue
+    -webkit-text-stroke-width: .25px;
+    -webkit-text-stroke-color: dodgerblue;
+    font-family: 'Alfa Slab One', cursive;
+}
+.modal-content{
+    font-size: 24px;
+
 }
