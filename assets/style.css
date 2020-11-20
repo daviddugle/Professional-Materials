@@ -3,10 +3,11 @@
     vertical-align: auto;
     border: 2px dodgerblue;
     text-shadow: 2px 2px 15px dodgerblue;
+
     
 }
 .naming-sect:hover{
-    text-shadow: 2px 2px 25px dodgerblue;
+    text-shadow: 2px 2px 10px dodgerblue;
     
 
 }
@@ -14,7 +15,8 @@
 
 .navbar{
     font-family: 'Archivo Black', sans-serif;
-    text-shadow: 2px 2px 5px dodgerblue;
+    text-shadow: 2px 2px 5px white;
+    
     
 }
 body{
@@ -24,4 +26,14 @@ body{
 }
 nav{
     background-color: red;
+}
+.first-card,
+.second-card,
+.third-card
+{
+    color: black;
+    font-size: 30px;
+    text-shadow: 2px 2px 15px dodgerblue;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: dodgerblue
 }
