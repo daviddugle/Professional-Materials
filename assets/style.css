@@ -1,10 +1,21 @@
 .naming-sect{
     font-family: 'Alfa Slab One', cursive;
     vertical-align: auto;
-    border: 1px dodgerblue;
+    border: 2px dodgerblue;
+    text-shadow: 2px 2px 15px dodgerblue;
+    
 }
+.naming-sect:hover{
+    text-shadow: 2px 2px 25px dodgerblue;
+    
+
+}
+
+
 .navbar{
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Archivo Black', sans-serif;
+    text-shadow: 2px 2px 5px dodgerblue;
+    
 }
 body{
     background-color: black;
