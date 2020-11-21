@@ -69,30 +69,7 @@
             <p class="phone-num">980.777.0729</p>
         </div>
     </div>
-    <script>
-
-        //Had to set this here until I could get an answer why I was having an issue.
-        
-        //mobile menu
-        var burgerList =document.getElementById("nav-links");
-        
-        $("#burger").on("click",function(){
-            burgerList.classList.toggle("is-active");
-        });
-        
-        
-        // modal pop out
-        
-        var modBG =document.querySelector("#modal-back");
-        var modal = document.querySelector(".modal");
-        
-        $("#cont-info").on("click", function(){
-            modal.classList.add("is-active");    
-        });
-        $(modBG).on("click", function(){
-            modal.classList.remove("is-active");
-        });
-    </script>
+   
 
 
     <script src="assets/script.js"></script>
